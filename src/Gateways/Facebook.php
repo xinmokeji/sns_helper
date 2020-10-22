@@ -7,9 +7,9 @@ use anerg\OAuth2\Helper\Str;
 
 class Facebook extends Gateway
 {
-    const API_BASE            = 'https://graph.facebook.com/v3.1/';
-    protected $AuthorizeURL   = 'https://www.facebook.com/v3.1/dialog/oauth';
-    protected $AccessTokenURL = 'https://graph.facebook.com/v3.1/oauth/access_token';
+    const API_BASE            = 'https://graph.facebook.com/v8.0/';
+    protected $AuthorizeURL   = 'https://www.facebook.com/v8.0/dialog/oauth';
+    protected $AccessTokenURL = 'https://graph.facebook.com/v8.0/oauth/access_token';
 
     /**
      * 构造函数
