@@ -1,12 +1,12 @@
 {
-    "name": "changkang886/sns_auth",
+    "name": "xinmokeji/sns_auth",
     "description": "weixin weibo qq alipay twitter google line facebook sns oauth",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "changkang886",
-            "email": "changkang321@gmail.com"
+            "name": "xinmokeji",
+            "email": "changkang@moqing.com"
         }
     ],
     "require": {
